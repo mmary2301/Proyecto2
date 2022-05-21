@@ -6,7 +6,7 @@ public class Bicho {
     public Bicho(String nombre, int salud) {
         this.nombre = nombre;
         this.salud = salud;
-    }
+    } 
 
     public Bicho(int salud) {
         this.salud = salud;
