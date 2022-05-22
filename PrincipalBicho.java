@@ -9,7 +9,7 @@ public class PrincipalBicho {
                 Bicho.imprimirInformacion(bichos);
                 System.out.println("Ingrese 1 para disparar");
                 System.out.println("Ingrese 2 para activar bomba atomica aletoria");
-                System.out.println("Ingre 3 para activar bicho muntante ");
+                System.out.println("Ingrese 3 para activar bicho muntante ");
                 System.out.println("Ingrese 4 intercambiar las posiciones de los bichos");
                 System.out.println("Ingrese 5 para cambiar el tipo de sangre del bicho más débil");
                 System.out.println("Ingrese 6 para activar matar los bichos de una fila");
